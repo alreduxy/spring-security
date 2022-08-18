@@ -1,6 +1,4 @@
 Hands-on: A small
 secured web application
-![image](https://user-images.githubusercontent.com/82774845/185240584-e3849184-c145-40e1-ac44-13143db12614.png)
 
-Este ejemplo práctico lo ayuda a tener una mejor visión general de cómo todos los componentes que discutimos hasta ahora funcionan juntos en una aplicación real.
-Extraído del libro, Spring Security in action. Capitulo 6.
+En este ejemplo practico, actualizo lo que esta deprecado en Spring Security, usandop como referencias documentacion oficial. El libro guia es Spring security in action. Capitulo 6. Que ha medida que voy traduciendo, voy aplicando los conceptos.
